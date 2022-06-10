@@ -4,7 +4,11 @@
 
 ![2](https://user-images.githubusercontent.com/89520031/172657874-95e417ad-e3d0-48f5-8b93-98ab182923ba.jpg)
 
-# Summary:
+# Dataset Explanation:
+
+The dataset was actually a collection of 5,41,909 experiences about transactions of online retail customers with 8 features or dimensions.
+
+# Project Summary:
 
 The task was to explore and analyze an unlabeled dataset on the transaction details of online retail customers, transactions were occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail and to build a clustering model for customer segmentation.
 
@@ -19,3 +23,7 @@ Employed some of the most widely used clustering algorithms for this project nam
 **3.	GaussianMixture**
 
 Final model was KMeans model for online retail customer segmentation, as it was best fitting our expected customer segmentation with minimum overlap among all three models. 
+
+# Potential Impact and Future Scope:
+
+This model is for a very fast and simple way of customer segmentation. Thus, wherever it is required to make a basic prediction about customers segmentation, this model will be fruitful.
